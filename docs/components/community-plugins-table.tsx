@@ -267,6 +267,7 @@ export const communityPlugins: CommunityPlugin[] = [
 			github: "ramiras123",
 			avatar: "https://github.com/ramiras123.png",
 		},
+	},
 	{
 		name: "@guilhermejansen/better-auth-waitlist",
 		url: "https://github.com/guilhermejansen/better-auth-waitlist",
