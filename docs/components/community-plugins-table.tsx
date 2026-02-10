@@ -267,6 +267,16 @@ export const communityPlugins: CommunityPlugin[] = [
 			github: "ramiras123",
 			avatar: "https://github.com/ramiras123.png",
 		},
+	{
+		name: "@guilhermejansen/better-auth-waitlist",
+		url: "https://github.com/guilhermejansen/better-auth-waitlist",
+		description:
+			"Waitlist and early-access gating plugin. Intercepts all registration paths and gates sign-ups behind an invite-based approval workflow.",
+		author: {
+			name: "guilhermejansen",
+			github: "guilhermejansen",
+			avatar: "https://github.com/guilhermejansen.png",
+		},
 	},
 ];
 export function CommunityPluginsTable() {
